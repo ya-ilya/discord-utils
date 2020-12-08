@@ -12,8 +12,8 @@
 ### tokens
 - Information about the user by token
 - Token nuker
-## Settings
-- example setting.txt
+### id
+- User information by id
 ```
 TokenNuker - this is the name of the server that will be created 50 times when using token nuker
 ```
