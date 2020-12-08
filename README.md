@@ -14,6 +14,3 @@
 - Token nuker
 ### id
 - User information by id
-```
-TokenNuker - this is the name of the server that will be created 50 times when using token nuker
-```
